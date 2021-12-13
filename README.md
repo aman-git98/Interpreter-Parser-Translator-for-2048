@@ -1,8 +1,8 @@
 # Interpreter-Parser-Translator-for-2048
 Interpreter[Parser Translator] for 2048 using C, Flex, Bison
 
-ROHIT GARG
-2018A7PS0193G
+AMAN GUPTA
+2018A7PS0089G
 
 #INTERPRETER FOR 2048 GAME USING C, FLEX, BISON#
 
